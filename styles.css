@@ -1,4 +1,15 @@
-/* Custom CSS to add some space between the card-decks */
-.container {
-  margin-top: 20px;
+
+/* Your CSS Code here. */
+.container{
+    float: left;
+    width: 20%;
+    margin: 10px;
+
 }
+#card title{
+    background-color: red;
+    margin: 10px;
+    margin-left: 10px;
+    
+}
+/* Your CSS Code here. */
